@@ -13,6 +13,5 @@
 - Backend: Python
 - Tools: Git, GitHub, VS Code, Linux
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeraj-123&show_icons=true&theme=tokyonight)
 
 
