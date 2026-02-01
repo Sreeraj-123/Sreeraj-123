@@ -35,8 +35,6 @@
 <img src="https://streak-stats.demolab.com?user=Sreeraj-123&theme=dark" />
 
 
-
-
 ---
 
 ## 🌐 Connect With Me
