@@ -14,5 +14,5 @@
 - Tools: Git, GitHub, VS Code, Linux
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeraj-123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeraj-123&layout=compact)
+
 
