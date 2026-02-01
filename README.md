@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Technical Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,java,python,linux,sql,c,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,python,linux,mysql,c,cpp,figma,git,github)](https://skillicons.dev)
 ---
 
 ## 📌 Featured Projects
