@@ -13,7 +13,7 @@
 - Backend: Python
 - Tools: Git, GitHub, VS Code, Linux
   
-![GitHub Streak](https://streak-stats.demolab.com?user=sreerajvr)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sreeraj-123)
 
 
 
