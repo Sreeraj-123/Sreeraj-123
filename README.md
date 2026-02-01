@@ -12,6 +12,8 @@
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python
 - Tools: Git, GitHub, VS Code, Linux
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=sreerajvr)
 
 
 
