@@ -32,7 +32,7 @@
 ---
 
 ## 📈 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Sreeraj-123&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sreeraj-123)
 
 
 
