@@ -32,8 +32,8 @@
 ---
 
 ## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sreerajvr&show_icons=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sreerajvr&layout=compact)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sreeraj-123&show_icons=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sreeraj-123&layout=compact)
 
 ---
 
