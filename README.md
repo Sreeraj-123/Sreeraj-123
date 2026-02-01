@@ -27,15 +27,6 @@
 
 ---
 
-## 📈 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=Sreeraj-123)
-
-
-
-
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sreeraj-v-r
 - 📧 Email: sreerajvr10@gmail.com
