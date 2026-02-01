@@ -14,12 +14,8 @@
 
 ---
 
-## 🛠️ Technical Skills
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Python, SQL  
-**Tools:** Git, GitHub, Linux, VS Code  
-**Design:** Figma, Responsive UI
-
+## 🛠️ Technical Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,java,python,linux,sql,c,c++)](https://skillicons.dev)
 ---
 
 ## 📌 Featured Projects
