@@ -10,7 +10,7 @@
 - 🌱 Learning React, Git, Docker & Linux
 - 👯 Open to internships, hackathons, and collaborations
 - 💡 Strong interest in UI/UX and clean design
-- 📫 Reach me: your@email.com
+- 📫 Reach me: sreerajvr10@gmail.com
 
 ---
 
