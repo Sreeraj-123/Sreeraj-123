@@ -32,7 +32,8 @@
 ---
 
 ## 📈 GitHub Activity
-<img src="https://streak-stats.demolab.com?user=sreerajvr&theme=github-dark" />
+<img src="https://streak-stats.demolab.com?user=Sreeraj-123&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" />
+
 
 
 
