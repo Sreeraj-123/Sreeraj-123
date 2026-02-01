@@ -42,5 +42,4 @@
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sreeraj-v-r
-- 🌍 Portfolio: https://your-portfolio-link
 - 📧 Email: sreerajvr10@gmail.com
