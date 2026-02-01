@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Sreeraj V R
 
-<!--
-**Sreeraj-123/Sreeraj-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Web Developer | 🚀 Tech Explorer  
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: React, Docker
+- 💬 Ask me about: HTML, CSS, JavaScript, Linux
+- 📫 Reach me at: sreeraj@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python
+- Tools: Git, GitHub, VS Code, Linux
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
